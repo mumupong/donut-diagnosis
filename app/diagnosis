@@ -1,7 +1,0 @@
-export default function DiagnosisPage() {
-  return (
-    <div className="flex items-center justify-center min-h-screen bg-orange-50">
-      <h1 className="text-2xl font-bold text-orange-800">質問を準備中です... 🍩</h1>
-    </div>
-  );
-}
